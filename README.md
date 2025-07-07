@@ -13,4 +13,4 @@
 
 首先，一个好的资源站会将内容按类型进行详细分类，帮助用户快速找到想看的影片。例如，站点会根据不同类型（如剧情、素人、制服等）或女优（如波多野结衣、明日花绮罗等）进行划分，用户可以根据自己的喜好选择影片。许多网站还会根据更新速度和影片质量来安排资源，确保用户能够第一时间看到最新的影片。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd7 ）</span>
